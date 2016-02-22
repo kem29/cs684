@@ -1,0 +1,51 @@
+.center {
+	margin:0px auto;
+}
+
+.error {
+	color:red;
+}
+
+.clear_both { 
+	clear:both; height:1px; 
+}
+
+.clear_both_form { 
+	clear:both; height:15px; 
+}
+
+.hidden { 
+	display:none; 
+}
+
+.formLabel
+{
+	width:100px;
+	margin-right: 15px;
+}
+
+.formInput
+{
+	float:right;
+}
+
+.largeInput
+{
+	width:200px;
+}
+
+.textAreaInput
+{
+	width:200px;
+	height:80px;
+}
+
+.readOnlyInput
+{
+	background-color:#E5F1FB;
+}
+
+a {color:#155DF4;}      
+a:visited {color:#155DF4;}  
+a:hover {color:#155DF4;}  
+a:active {color:#155DF4;}

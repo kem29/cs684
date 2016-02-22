@@ -1,0 +1,34 @@
+
+#content h4 
+{
+	font-size:1.3em;
+}
+.autoBox
+{
+	border:solid black 3px;
+	margin-bottom:10px;
+	padding:10px;
+}
+
+.autoBox:hover
+{
+	background-color: #DDDBDB;
+}
+
+.autoBox img
+{
+	float:left;
+	margin-right:25px;
+}
+
+.autoDescriptionBox
+{
+	margin:35px 0px 0px 15px;
+}
+	.autoDescriptionBox a
+	{
+		font-size:1.3em;
+		font-weight:bold;
+	}
+	
+	
