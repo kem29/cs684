@@ -4,7 +4,7 @@ import java.sql.*;
 public class DatabaseLayer 
 {
 	private static final String DB_USER = "cs684root";
-	private static final String DB_PW = "tYZ2TVA0796okdzgVT8c";
+	private static final String DB_PW = "";
 	
 	public static ResultSet ExecuteSQL(String sql) throws Exception
 	{
